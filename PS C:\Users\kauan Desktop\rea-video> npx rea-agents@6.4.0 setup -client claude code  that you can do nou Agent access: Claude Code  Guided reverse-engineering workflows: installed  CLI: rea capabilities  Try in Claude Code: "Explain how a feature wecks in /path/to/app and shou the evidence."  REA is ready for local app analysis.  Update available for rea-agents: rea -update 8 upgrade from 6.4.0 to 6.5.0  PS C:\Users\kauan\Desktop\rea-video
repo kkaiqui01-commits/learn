@@ -1,3 +1,18 @@
+PS C:\Users\kauan Desktop\rea-video> npx rea-agents@6.4.0 setup -client claude code
+
+that you can do nou Agent access: Claude Code
+
+Guided reverse-engineering workflows: installed
+
+CLI: rea capabilities
+
+Try in Claude Code: "Explain how a feature wecks in /path/to/app and shou the evidence."
+
+REA is ready for local app analysis.
+
+Update available for rea-agents: rea -update 8 upgrade from 6.4.0 to 6.5.0
+
+PS C:\Users\kauan\Desktop\rea-video
 ---
 authors: avivkeller
 ---
